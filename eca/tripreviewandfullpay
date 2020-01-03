@@ -1,0 +1,411 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+      <meta name="x-apple-disable-message-reformatting">
+      <meta name="format-detection" content="telephone=no,date=no,address=no,email=no,url=no">
+      <title>Flight Centre</title>
+      <!--[if mso]>
+      <style type="text/css">
+         body, table, td {font-family: Arial, Helvetica, sans-serif !important; }
+         .msNO { padding: 0px !important; }
+      </style>
+      <![endif]-->
+      <style name="core" type="text/css">
+         @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+         @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+         body {
+         margin: 0;
+         padding: 0;
+         }
+         div,
+         p,
+         a,
+         li,
+         td {
+         -webkit-text-size-adjust: none;
+         }
+         table,
+         td {
+         mso-table-lspace: 0pt !important;
+         mso-table-rspace: 0pt !important;
+         }
+         .urlreformat a { color: inherit !important; text-decoration: none !important; }
+         @media screen and (max-width: 640px) {
+          .bgbegone { padding: 0px !important; }
+         }
+         @media screen and (max-width: 480px) {
+         .responsive100 { width: 100% !important; height: auto !important;}
+         .responsivehide { display: none !important; }
+         .responsiveblockfull { display: block !important; width: 100% !important; height: auto !important; float: left !important; }
+         .clearpadding {padding: 0px 0px 0px 0px !important;}
+         .resbutton {padding: 0px 10px 20px 10px !important; max-width: 166px !important; min-width: 166px !important; text-align: center !important;}
+         .fluidtd { padding: 0px 15px 0px 0px !important; }
+         .resfontheader { font-size: 25px !important; }
+         .responsivequote { text-align: center !important; padding: 20px 10px 10px 10px !important; }
+         .callus { padding: 5px 20px 5px 20px !important; }
+         .responsivelogo { width: 100% !important; height: auto !important; }
+         .pad18top { padding-top: 18px !important; }
+         .consultimg { width: 25px !important; height: auto !important; }
+         .pad12top { padding: 12px 0px 0px 0px !important; }
+         .consulttd { width: 49px !important; padding-top: 10px !important; height: auto !important; }
+         }
+      </style>
+      <!--[if gte mso 9]>
+      <xml>
+         <o:OfficeDocumentSettings>
+         <o:AllowPNG/>
+         <o:PixelsPerInch>96</o:PixelsPerInch>
+         o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+   </head>
+   <body bgcolor="#EFF2F6" style="font-family: Roboto, sans-serif; font-weight: 500;">
+       <style name="yahoo" type="text/css">
+         @import url('https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700');
+         @import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700');
+         body {
+         margin: 0;
+         padding: 0;
+         }
+         div,
+         p,
+         a,
+         li,
+         td {
+         -webkit-text-size-adjust: none;
+         }
+         table,
+         td {
+         mso-table-lspace: 0pt !important;
+         mso-table-rspace: 0pt !important;
+         }
+         .urlreformat a { color: inherit !important; text-decoration: none !important; }
+         @media screen and (max-width: 640px) {
+          .bgbegone { padding: 0px !important; }
+         }
+         @media screen and (max-width: 480px) {
+         .responsive100 { width: 100% !important; height: auto !important;}
+         .responsivehide { display: none !important; }
+         .responsiveblockfull { display: block !important; width: 100% !important; height: auto !important; float: left !important; }
+         .clearpadding {padding: 0px 0px 0px 0px !important;}
+         .resbutton {padding: 0px 10px 20px 10px !important; max-width: 166px !important; min-width: 166px !important; text-align: center !important;}
+         .fluidtd { padding: 0px 15px 0px 0px !important; }
+         .resfontheader { font-size: 25px !important; }
+         .responsivequote { text-align: center !important; padding: 20px 10px 10px 10px !important; }
+         .callus { padding: 5px 20px 5px 20px !important; }
+         .responsivelogo { width: 100% !important; height: auto !important; }
+         .pad18top { padding-top: 18px !important; }
+         .pad12top { padding: 12px 0px 0px 0px !important; }
+         .consultimg { width: 25px !important; height: auto !important; }
+         .consulttd { width: 49px !important; padding-top: 10px !important; height: auto !important; }
+         }
+      </style>
+      <!--[if mso]>
+      <style type="text/css">
+         body, table, td {font-family: Arial, Helvetica, sans-serif !important; }
+         .consulttd { width: 49px !important; padding-top: 8px !important; padding-left: 24px !important; height: auto !important; }
+      </style>
+      <![endif]-->
+      <!-- START OPTIONAL PREHEADER TEXT -->
+      <div style="display:none;font-size:1px;line-height:1px;max-height:0px;max-width:0px;opacity:0;overflow:hidden;mso-hide:all;font-family: sans-serif;"></div>
+      <!-- END OPTIONAL PREHEADER TEXT -->
+      <table align="center" width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#EFF2F6" style="background-color:#EFF2F6; font-family: Roboto, sans-serif; min-width: 100%;">
+        
+        <tr>
+            <td align="center" style="padding: 32px 0px;" class="bgbegone">
+               <table class="responsive100" width="640" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" style="width: 640px; background-color: #ffffff;">
+                  <tr>
+                     <td align="center" style="width: 640px; background-color: #ffffff;" width="640" bgcolor="#ffffff">
+                        <!-- BEGIN EMAIL -->
+
+                        <!-- HEADER NO PHONE -->                        
+                        <table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="100%" style="background-color: #d40119; font-weight: 400; min-width: 100%;">
+                           <tr>
+                              <td width="100%" style="padding: 0px; min-width: 100%;">
+                                 <table cellpadding="0" cellspacing="0" border="0" width="100%" style="min-width: 100%;">
+                                    <tr>
+                                       <td width="20" align="left" valign="middle" style="width: 20px; padding: 0px;">&nbsp;</td>
+                                       <td class="responsivehide" width="20" align="left" valign="middle" style="width: 20px; padding: 0px;">&nbsp;</td>
+                                       <td style="padding: 0px;">
+                                          <table cellpadding="0" cellspacing="0" border="0" width="100%" style="min-width: 100%;">
+                                             <tr>
+                                                <td style="padding: 8px 0px 0px 0px; font-size: 10px;">
+                                                  <a href="https://www.flightcentre.com.au/" alt="Flight Centre" target="_blank"><img class="responsivelogo" src="source/logo-header@2x.png" width="350" style="display: block; margin: 0px; padding: 0px; width: 350px;"></a>
+                                                </td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                       <td class="responsivehide" width="20" align="left" valign="middle" style="width: 20px; padding: 0px;">&nbsp;</td>
+                                       <td width="20" align="left" valign="middle" style="width: 20px; padding: 0px;">&nbsp;</td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                        </table>
+                       
+                        <!-- WHITEBODY -->
+                        <table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="100%" style="background-color: #ffffff; font-weight: 400; min-width: 100%;">
+                           <tr>
+                              <td width="20" style="width: 20px;" class="responsivehide">&nbsp;</td>
+                              <td style="padding: 32px 20px;">
+                                <table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-width: 100%;">
+                                  <tr>
+                                    <td style="font-size: 34px; line-height: 38px; font-weight: bold;"><em>Your trip payment is now due.</em></td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 16px 0px 16px; font-size: 14px; line-height: 18px;">
+                                      Hi Jodie, Let’s get you on your way!<br>
+                                      <br>
+                                      Please review your trip details and complete the payment before the due date to lock in your trip. Any questions, let me know. Thanks, Jane.
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 8px 0px;">
+                                      <table border="0" cellspacing="0" cellpadding="0" width="100%" style="background-color: #EAF4FF; min-width: 100%;" bgcolor="#EAF4FF">
+                                        <tr>
+                                          <th align="left" class="responsiveblockfull" valign="middle" style="font-weight: 400; vertical-align: middle; background-color: #EAF4FF;">
+                                            <table border="0" cellspacing="0" cellpadding="0" width="100%" align="center" style="min-width: 100%;">
+                                              <tr>
+                                                <td class="responsivequote" align="left" style="padding: 8px 10px 8px 16px; text-align: left; font-size: 16px; line-height: 24px;">Quote number: <span style="font-weight: bold;font-size: 20px; line-height: 24px;" class="urlreformat">FT875900222</span></td>
+                                              </tr>
+                                            </table>
+                                          </th>
+                                          <th class="responsiveblockfull clearpadding" valign="middle" style="font-weight: 400; vertical-align: middle; background-color: #EAF4FF; padding: 12px 16px 12px 8px; width: 166px;" width="166">
+                                            <table border="0" cellspacing="0" cellpadding="0" width="100%" class="resbutton" align="center" style="min-width: 100%;">
+                                              <tr>
+                                                <td align="center" style="font-size: 14px; line-height: 16px; background-color: #0072ea; padding: 0px; color: #ffffff; height: 38px; border-radius: 2px;" height="38"><a style="padding: 12px 15px 10px 15px; display: block; color: #ffffff; text-decoration: none;">REVIEW &amp; PAY</a></td>
+                                              </tr>
+                                            </table>
+                                          </th>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 16px 0px 8px 0px; font-size: 16px; line-height: 20px; font-weight: 500; letter-spacing: 0.1px;">Booking status</td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 8px 0px 0px 0px">
+                                      <table border="0" cellspacing="0" cellpadding="0">
+                                        <tr>
+                                          <th class="responsiveblockfull" style="padding: 0px 0px 8px 0px; font-weight: normal;" align="left">
+                                            <table border="0" cellspacing="0" cellpadding="0">
+                                              <tr>                                                
+                                                <td style="padding: 8px 15px; background-color: #FFEFEF; color: #EF3D44; font-size: 14px; line-height: 18px; border-left: 2px solid #FF5252;">Awaiting&nbsp;Review</td>
+                                              </tr>
+                                            </table>
+                                          </th>
+                                          <th class="responsiveblockfull" style="padding: 0px 0px 8px 0px; font-weight: normal;" align="left">
+                                            <table border="0" cellspacing="0" cellpadding="0">
+                                              <tr>                                                
+                                                <td class="pad12top" style="padding: 8px 10px 8px 10px; font-size: 14px; line-height: 18px;">Due&nbsp;by:</td>
+                                              </tr>
+                                            </table>
+                                          </th>
+                                          <th class="responsiveblockfull" style="padding: 0px 0px 8px 0px; font-weight: normal;" align="left">
+                                            <table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFEFEF" width="100%" style="background-color: #FFEFEF; min-width: 100%;">
+                                              <tr>
+                                                <td style="padding: 0px 10px;"><img src="source/local_time_icon_96.png" width="24" style="width: 24px; display: inline-block;"></td>
+                                                <td style="padding: 8px 10px 8px 0px; font-size: 14px; line-height: 18px; width: 100%;" class="urlreformat"><b>Wed 20th Feb 19</b> 4:30pm AEST</td>
+                                              </tr>
+                                            </table>
+                                          </th>
+                                        </tr> 
+                                      </table>
+                                    </td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 0px 10px 16px 0px; font-size: 12px; line-height: 16px; color: #373737; letter-spacing: 0.2px;"><span style="font-weight: 500;">Why do we have a deadline?</span> Product availability and pricing can change quickly.</td>
+                                  </tr>
+                                  <tr>
+                                    <td style="padding: 8px 0px 8px 0px; font-size: 16px; line-height: 20px; font-weight: 500; letter-spacing: 0.1px;">Booking details</td>
+                                  </tr>
+                                  <tr>
+                                    <td>
+                                      <table border="0" cellspacing="0" cellpadding="0">                                        
+                                        <tr>
+                                          <td style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px;">Booking type: <span style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px; font-weight: bold;">Flights + Accommodation</span></td>
+                                        </tr>                                        
+                                        <tr>
+                                          <td style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px;">Destination: <span style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px; font-weight: bold;">Bali</span></td>
+                                        </tr>
+                                        <tr>
+                                          <td style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px;" class="urlreformat">Departure date: <span style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px; font-weight: bold;">Sat, 24th Aug 19</span></td>
+                                        </tr>                                        
+                                        <tr>
+                                          <td style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px;" class="urlreformat">Return date: <span style="padding: 8px 10px 0px 0px; font-size: 14px; line-height: 18px; font-weight: bold;">Sat 31st August, 2019</span></td>
+                                        </tr>                                        
+                                      </table>
+                                    </td>
+                                  </tr>                            
+                                  <tr>
+                                    <td style="padding: 32px 0px 0px 0px;">
+                                      <table border="0" cellspacing="0" cellpadding="0" bgcolor="#fafafa" width="100%" style="background-color: #fafafa; min-width: 100%;">
+                                        <tr>
+                                          <td style="padding: 16px 20px 16px; font-size: 20px; line-height: 24px;">Your Travel Expert</td>
+                                        </tr>
+                                        <tr>
+                                          <td style="padding: 0px;">
+                                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-width: 100%;">
+                                              <tr>
+                                                <!-- DISABLE IMAGES BY HIDING THIS CELL -->
+                                                <td style="width: 64px;" align="right" valign="top"><img src="source/contact.png" style="width: 40px; display: block; margin: 0; padding-left: 24px;" width="40"></td>
+                                                <!-- PLUS ANOTHER IN THE NExT BLOCK -->
+                                                <td style="padding: 0px;">
+                                                  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-width: 100%;">
+                                                    <tr>
+                                                      <td style="padding: 8px 20px 0px; font-size: 16px; line-height: 20px; letter-spacing: 0.2px;" class="urlreformat"><b>Jane Doherty</b></td>
+                                                    </tr>
+                                                    <tr>
+                                                      <td style="padding: 8px 20px 0px; font-size: 14px; line-height: 18px; letter-spacing: 0.2px;" class="urlreformat">Flight Centre - 380 Queen St Mall, Brisbane City, 4000</td>
+                                                    </tr>
+                                                  </table>
+                                                </td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                        <tr>
+                                          <td style="padding: 0px;">
+                                            <table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-width: 100%;">
+                                              <tr>
+                                                <!-- DISABLE IMAGES BY HIDING THIS CELL -->
+                                                <td style="width: 64px;" align="center" valign="top" class="responsivehide">&nbsp;</td>
+                                                <!-- OKAY YOU GOT THEM -->
+                                                <td style="padding: 0px;">
+                                                  <table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-width: 100%;">
+                                                  <!--                                               
+                                                      <tr>
+                                                        <td style="padding: 5px 20px 0px; font-size: 14px; line-height: 20px; letter-spacing: 0.2px;" class="urlreformat pad18top">
+                                                           <span style="white-space: nowrap;"><span style="color: #757575;">Mon - Fri:</span> 8am - 7pm </span>
+                                                           <span class="responsivehide">&nbsp;&nbsp;</span> 
+                                                          <span style="white-space: nowrap;"> <span style="color: #757575;">Sat:</span> 10am - 5pm </span>
+                                                           <span class="responsivehide">&nbsp;&nbsp;</span> 
+                                                          <span style="white-space: nowrap;"> <span style="color: #757575;">Sun:</span> Closed</span>
+                                                        </td>
+                                                      </tr>
+                                                    -->
+                                                      <tr>
+                                                        <td style="padding: 8px 20px 0px;">
+                                                          <table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-width: 100%;">
+                                                            <tr>
+                                                              <td width="100%" align="left" style="font-size: 12px; line-height: 20px; padding: 8px 0px 8px 0px; font-weight: 400; min-width: 100%; letter-spacing: 0.2px;">Phone: <span style="font-size: 14px; line-height: 20px;"><a href="tel:1311111100" style="color: #0072ea; text-decoration: none; white-space: nowrap;">1300 000 000</a></span></td>
+                                                            </tr>
+                                                            <tr>
+                                                              <td width="100%" align="left" style="font-size: 12px; line-height: 20px; padding: 0px 0px 8px 0px; font-weight: 400; min-width: 100%; letter-spacing: 0.2px;">Email: <span style="font-size: 14px; line-height: 20px;"><a href="mailto:jane.doherty@flightcentre.com.au" style="color: #0072ea; text-decoration: none; white-space: nowrap;">jane.doherty@flightcentre.com.au</a></span></td>
+                                                            </tr>
+                                                            <tr>
+                                                              <td width="100%" align="left" style="font-size: 12px; line-height: 20px; padding: 0px 0px 8px 0px; font-weight: 400; min-width: 100%; letter-spacing: 0.2px;">Store Email: <span style="font-size: 14px; line-height: 20px;"><a href="mailto:pseudo@flightcentre.com.au" style="color: #0072ea; text-decoration: none; white-space: nowrap;">pseudo@flightcentre.com.au</a></span></td>
+                                                            </tr>
+                                                          </table>
+                                                        </td>
+                                                      </tr>                                                      
+                                                      <tr>
+                                                        <td style="padding: 8px 20px 16px 20px;" >
+                                                          <table border="0" cellspacing="0" cellpadding="0" align="left" class="responsive100">
+                                                            <tr>
+                                                              <td style="padding: 8px 25px; border-left: 4px solid #FF5252; background-color: #ffffff; font-size: 12px; line-height: 20px;">After hours assist: &nbsp;<span class="responsivehide">&nbsp;&nbsp;</span> <span style="font-size: 14px; line-height: 20px; letter-spacing: 0.2px;"><a href="tel:+61731707840" style="color: #0072ea; text-decoration: none; white-space: nowrap;">+61 7 3170 7840</a></span><br><span style="font-size: 11px; line-height: 20px; color: #757575; letter-spacing: 0.2px;">24 hours a day, 365 days a year</span></td>
+                                                            </tr>
+                                                          </table>
+                                                        </td>
+                                                      </tr>
+                                                    </table>
+                                                  </td>
+                                              </tr>
+                                            </table>
+                                          </td>
+                                        </tr>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </td>
+                              <td width="20" style="width: 20px;" class="responsivehide">&nbsp;</td>
+                           </tr>
+                        </table>
+                        <!-- FOOTER -->
+                        <table border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff" width="100%" style="background-color: #ffffff; min-width: 100%;">
+                           <tr>
+                              <td style="padding: 0px 20px;" class="clearpadding">
+                                 <table border="0" cellspacing="0" cellpadding="0" width="100%" align="left" style="min-width: 100%;">
+                                    <tr>
+                                       <td style="padding: 0px 20px;">
+                                          <table border="0" cellspacing="0" cellpadding="0" width="100%" style="min-width: 100%;">
+                                             <tr>
+                                                <td>
+                                                   <a href="https://www.flightcentre.com.au/"><img src="source/logo-footer.png" width="180" style="width: 180px; display: block; margin: 0; padding: 0px 0px 0px 0px"></a>
+                                                </td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td style="padding: 16px 20px 16px;" align="left">
+                                          <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                             <tr>
+                                                <td align="left" class="fluidtd" style="padding: 0px 25px 0px 0px; font-size: 12px; line-height: 16px; font-weight: 400;"><a href="https://www.flightcentre.com.au/booking-terms-condition" style="color: #0072ea; text-decoration: none;">Terms & Conditions</a></td>
+                                                <td align="left" class="fluidtd" style="padding: 0px 25px 0px 0px; font-size: 12px; line-height: 16px; font-weight: 400;"><a href="https://www.flightcentre.com.au/privacy" style="color: #0072ea; text-decoration: none;">Privacy Policy</a></td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td style="padding: 0px 20px 16px;" align="left">
+                                          <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                             <tr>
+                                                <td align="left" style="padding: 0px; font-size: 10px; line-height: 14px; font-weight: 400;" ><span class="urlreformat">&copy; Flight Centre Travel Group Limited trading as Flight Centre <span style="white-space: nowrap;">ABN 25 003 377 188</span> <span class="responsivehide"><br></span>ACN 003 377 188 ATAS - Travel Accredited No. A10412.</span></td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td style="padding: 0px 20px 0px;" align="left">
+                                          <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                             <tr>
+                                                <th style="font-weight: normal;" class="responsiveblockfull">
+                                                  <table border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                      <td style="padding: 0px 40px 8px 0px; font-size: 10px;"><img src="source/credit.png" alt="Visa, Mastercard, American Express & Diners Club" style="display: block; margin: 0; width: 134px;" width="134"></td>
+                                                      <td style="padding: 0px 40px 8px 0px; font-size: 10px;"><img src="source/paypal.png" alt="Paypal" style="display: block; margin: 0; width: 53px;" width="53"></td>
+                                                    </tr>
+                                                  </table>
+                                                </th>
+                                                <th style="font-weight: normal;" class="responsiveblockfull">
+                                                  <table border="0" cellspacing="0" cellpadding="0">
+                                                    <tr>
+                                                      <td style="padding: 0px 40px 8px 0px; font-size: 10px;"><img src="source/bpay.png" alt="Bpay" style="display: block; margin: 0; width: 31px;" width="31"></td>
+                                                      <td style="padding: 0px 40px 8px 0px; font-size: 10px;"><img src="source/deposit.png" alt="Direct Deposit" style="display: block; margin: 0; width: 61px;" width="61"></td>
+                                                      <td style="padding: 0px 40px 8px 0px; font-size: 10px;"><img src="source/instore.png" alt="Pay cash in store" style="display: block; margin: 0; width: 24px;" width="24"></td>
+                                                    </tr>
+                                                  </table>
+                                                </th>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                    <tr>
+                                       <td style="padding: 0px 20px 32px;" align="left">
+                                          <table border="0" cellspacing="0" cellpadding="0" align="left">
+                                             <tr>
+                                                <td align="left" style="padding: 0px; font-size: 10px; line-height: 14px; font-weight: 400; color: #757575">Bpay and Direct Deposit are not available if you’re travelling within 7 days. Merchant fees may apply to some payment methods.</td>
+                                             </tr>
+                                          </table>
+                                       </td>
+                                    </tr>
+                                 </table>
+                              </td>
+                           </tr>
+                        </table>
+                        <!-- END EMAIL -->
+                     </td>
+                  </tr>
+               </table>
+            </td>
+         </tr>
+      </table>
+   </body>
+</html>
